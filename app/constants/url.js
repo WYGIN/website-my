@@ -8,4 +8,4 @@ export const RDS_STATUS_URL = 'https://status.realdevsquad.com/';
 export const MAIN_SITE_URL = 'https://realdevsquad.com/';
 export const GOTO_URL = 'https://realdevsquad.com/goto';
 export const AUTH_URL =
-  'https://github.com/login/oauth/authorize?client_id=23c78f66ab7964e5ef97';
+  'https://github.com/login/oauth/authorize?client_id=2bfae6ca8d1170ab6ddd';
