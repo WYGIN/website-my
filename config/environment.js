@@ -28,7 +28,7 @@ module.exports = function (environment) {
   ENV.MIXPANEL_TOKEN = process.env.MIXPANEL_TOKEN || 'DUMMY_TOKEN';
 
   if (environment === 'development') {
-    ENV.BASE_API_URL = 'http://localhost:3000';
+    ENV.BASE_API_URL = 'https://8000-wygin-websitebackend-k2n3t2cha4h.ws-us100.gitpod.io';
     ENV.MIXPANEL_TOKEN = 'TEST_TOKEN';
     ENV['ember-cli-mirage'] = {
       enabled: false,
